@@ -1,0 +1,1 @@
+- This is a very simple duo character calculator I wrote,and it will keep evolving as my coding skill evolves.
