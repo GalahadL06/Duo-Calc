@@ -18,7 +18,7 @@ int main(int argc, const char * argv[]) {
     printf("Welcome to use Duo-Calc!\n");
     sleep(1);
     while(1){
-        printf("Choose from '+' '-' '*' '/' '%' '!' '^'\nPress '$' to exit\nInput an operator:");
+        printf("Choose from '+' '-' '*' '/' '%%' '!' '^'\nPress '$' to exit\nInput an operator:");
         scanf("%c",&c);
         if(c=='M'){
             printf("Input a:");
