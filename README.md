@@ -1,1 +1,2 @@
-- This is a very simple duo character calculator I wrote,and it will keep evolving as my coding skill evolves.
+- This is a very simple duo character calculator I wrote.
+- It is now archived to give way to a new repository Duo-Calc-POSIX to tidy the whole project.
